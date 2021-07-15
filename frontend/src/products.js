@@ -54,7 +54,7 @@ const products = [
   {
     _id: '5',
     name: 'Round table',
-    image: '/images/roundtable.jpg',
+    image: '/images/roundtable.jpeg',
     description:
       'A nice round table for a perfect date night❤❤',
     brand: 'Ram',
@@ -67,7 +67,7 @@ const products = [
   {
     _id: '6',
     name: 'Sofa',
-    image: '/images/sofa.jpg',
+    image: '/images/sofa.jpeg',
     description:
       'A nice and cozy sofa for your whole family',
     brand: 'Ikea',
