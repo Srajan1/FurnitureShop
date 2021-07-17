@@ -1,0 +1,22 @@
+{
+  "name": "furnitureshop",
+  "version": "1.0.0",
+  "description": "MERN based furniture shopping app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srajan1/FurnitureShop.git"
+  },
+  "author": "srajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Srajan1/FurnitureShop/issues"
+  },
+  "homepage": "https://github.com/Srajan1/FurnitureShop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
