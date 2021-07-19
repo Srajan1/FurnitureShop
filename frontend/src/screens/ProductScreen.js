@@ -12,7 +12,7 @@ function ProductScreen({match}) {
             setProduct(data);
         }
         fetchProduct();
-    }, [])
+    }, [match])
     return (
         <>
             <Link to ='/' className='btn btn-light my-3'>Go back</Link>

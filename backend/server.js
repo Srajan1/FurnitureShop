@@ -3,6 +3,8 @@ const dotenv = require('dotenv');
 dotenv.config();
 const app = express();
 const products = require('./data/products');
+const connectDB = require('./config/db');
+connectDB();
 
 app.get('/' , (req, res) => {
     res.send('Sever is running')
